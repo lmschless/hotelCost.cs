@@ -1,0 +1,10 @@
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/obj/Debug/netcoreapp3.1/MealTime.csprojAssemblyReference.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/obj/Debug/netcoreapp3.1/MealTime.AssemblyInfoInputs.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/obj/Debug/netcoreapp3.1/MealTime.AssemblyInfo.cs
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/bin/Debug/netcoreapp3.1/MealTime.deps.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/bin/Debug/netcoreapp3.1/MealTime.runtimeconfig.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/bin/Debug/netcoreapp3.1/MealTime.runtimeconfig.dev.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/bin/Debug/netcoreapp3.1/MealTime.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/bin/Debug/netcoreapp3.1/MealTime.pdb
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/obj/Debug/netcoreapp3.1/MealTime.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/meal-time/obj/Debug/netcoreapp3.1/MealTime.pdb
